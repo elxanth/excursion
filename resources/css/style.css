@@ -1,10 +1,43 @@
 * {
   background-color: black;
+  text-align: center;
 }
 header {
   font-family: verdana;
+
+}
+header h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+.link {
+  color:aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.video {
+  size: auto;
+}
+
+.explain h1{
+  font-family: verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.explain p{
+  font-family: verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 25px;
+
 }
