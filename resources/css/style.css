@@ -41,3 +41,9 @@ img {
   margin-bottom: 25px;
 
 }
+.footer p {
+  text-align: right;
+  font-family: verdana;
+  color: gray;
+  font-size: 21px;
+}
